@@ -1,0 +1,24 @@
+[
+  {
+    "course_title": "پایان نامه کارشناسی",
+    "course_ID": "C5001",
+    "teacher_code": "T1001",
+    "year": "1404",
+    "semester": "نیمسال اول",
+    "capacity": 2,
+    "resources": "مقاله‌های مرجع + کتاب مبانی تحقیق",
+    "sessions": 12,
+    "unit": 6
+  },
+  {
+    "course_title": "پایان نامه کارشناسی",
+    "course_ID": "C5002",
+    "teacher_code": "T1002",
+    "year": "1404",
+    "semester": "نیمسال دوم",
+    "capacity": 3,
+    "resources": "منابع تخصصی مهندسی نرم‌افزار",
+    "sessions": 10,
+    "unit": 6
+  }
+]

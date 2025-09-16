@@ -1,0 +1,18 @@
+[
+  {
+    "name": "دکتر مصطفی احمدی",
+    "teacher_code": "T1001",
+    "password": "62810AmO1",
+    "capacity_supervise": 5,
+    "capacity_judge": 10,
+    "email": "Ahmadi@gmail.com"
+  },
+  {
+    "name": "مهندس فاطمه نیکنام",
+    "teacher_code": "T1002",
+    "password": "5454G5m",
+    "capacity_supervise": 3,
+    "capacity_judge": 8,
+    "email": "Nicnam@gmail.com"
+  }
+]
